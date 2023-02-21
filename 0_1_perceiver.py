@@ -4,9 +4,7 @@
 Project: Object-oriented-Metric-Thresholds
 File: 0_1_perceiver.py
 Date : 2022/12/14 11:33
-Author : njumy
-HomePage : https://github.com/meiyuanqing
-Email : dg1533019@smail.nju.edu.cn
+
 
 基本方法如下：
 （1）用中位数阈值投票，得到伪标签
