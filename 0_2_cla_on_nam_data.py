@@ -4,9 +4,7 @@
 Project: Object-oriented-Metric-Thresholds
 File: 0_2_cla_on_nam_data.py
 Date : 2023/1/23 17:41
-Author : njumy
-HomePage : https://github.com/meiyuanqing
-Email : dg1533019@smail.nju.edu.cn
+
 
 由于NAM等人的方法为了与有监督方法比较，应用了二折500次的平均值比较，这个在讨论中进行二折500次的平均值比较。
 但在RQ1中，只用PERCEVIER方法与CLA方法比较，并不需要二折500次的平均值比较。
